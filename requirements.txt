@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+pillow
+pytesseract
+pdf2image
+opencv-python-headless
+python-multipart
+numpy
+pandas
+regex
+python-Levenshtein
+fuzzywuzzy
+requests
